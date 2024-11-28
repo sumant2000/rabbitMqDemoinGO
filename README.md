@@ -1,0 +1,2 @@
+# rabbitMqDemoinGO
+Rabbit MQ demo
